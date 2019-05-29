@@ -1,0 +1,15 @@
+current directory: /home/victor/todos/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+/usr/share/rvm/rubies/ruby-2.3.1/bin/ruby -r ./siteconf20190529-13938-1vtqgs.rb extconf.rb
+creating Makefile
+
+current directory: /home/victor/todos/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /home/victor/todos/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.so
+
+current directory: /home/victor/todos/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/bin/install -m 0755 cruby.so ./.gem.20190529-13938-g65lux/bindex
